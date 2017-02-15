@@ -19,6 +19,6 @@ class HelloMessage extends React.Component {
   }
   }
 
-// vid2
+// video
 ReactDOM.render(<HelloMessage name="John" />,document.getElementById("my-demo"));
 
